@@ -3,8 +3,9 @@
 
 
 
-- 🌱 I’m currently learning Python
-- ⚡ Fun fact: I'm new to programming!
+- 🌱 I’m currently learning Python, C++, Java, and Web Development (HTML, CSS, and JavaScript)!
+
+- ⚡ Fun fact: I'm new to programming! (kinda, 2 years)
 
 
 
