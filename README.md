@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on <i>[Iskolar ni Simeon](https://github.com/dwnppoalt/Iskolar-ni-Simeon)</i>.<br>🌱 I'm currently learning Python, HTML, JavaScript, CSS, and SQL.<br>
+🔭 I'm currently working on <i>nocturne</i>.<br>🌱 I'm currently learning TypeScript and React.<br>
 
 
 # 💻 Tech Stack:
