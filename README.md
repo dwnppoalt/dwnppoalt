@@ -1,4 +1,4 @@
-<h2 align="center">dwnppo</h2>
+<h2 align="center"><a href="https://dwnppo.dev" style="color:black">dwnppo</a></h2>
 <p align="center"><i>Jack of all trades—master of <b>most</b>.</i></p>
 
 
@@ -22,6 +22,6 @@
 
 <details align="center">
 <summary>GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=dwnppoalt&show_icons=true&theme=shadow_green" />
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_green" />
+<img src="https://github-readme-stats.vercel.app/api?username=dwnppoalt&show_icons=true&theme=vue-dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark" />
 </details>
