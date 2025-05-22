@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://github.com/dwnppoalt/nocturne"><code>📝 nocturne</code></a> •
-<a href="https://github.com/iskolar-ni-simeon/Iskolar-ni-Simeon"><code>📗 Iskolar ni Simeon</code></a> •
+<a href="https://github.com/dwnppoalt/markr"><code>🖋️ Markr</code></a> •
 <a href="https://github.com/dwnppoalt/minarai"><code>🤖 minarai</code></a>
 </p>
 
