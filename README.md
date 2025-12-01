@@ -13,7 +13,7 @@
 <h3 align="center">Projects</h3>
 
 <p align="center">
-<a href="https://github.com/dwnppoalt/nocturne"><code>📝 nocturne</code></a> •
+<a href="https://nocturne.dwnppo.dev/"><code>📝 nocturne</code></a> •
 <a href="https://github.com/dwnppoalt/markr"><code>🖋️ Markr</code></a> •
 <a href="https://github.com/dwnppoalt/minarai"><code>🤖 minarai</code></a>
 </p>
