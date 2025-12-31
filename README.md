@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<a href="mailto:me@dwnppo.dev?subject=From%20GitHub"><code>Email Me</code></a> • 
+<a href="mailto:dwnppo@dwnppo.dev?subject=From%20GitHub"><code>Email Me</code></a> • 
 <a href="https://portfolio.dwnppo.dev"><code>Portfolio</code></a> • 
 <a href="https://github.com/dwnppoalt"><code>GitHub</code></a>
 </p>
