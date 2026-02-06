@@ -20,8 +20,3 @@
 
 <hr>
 
-<details align="center">
-<summary>GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=dwnppoalt&show_icons=true&theme=vue-dark" />
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark" />
-</details>
